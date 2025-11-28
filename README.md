@@ -91,3 +91,4 @@ Endpoint utama:
 Catatan:
 - Gunakan header: `Authorization: Bearer <access_token>`
 - `qr_token` ditampilkan pada response pembuatan sesi, gunakan untuk QR payload `https://<host>/scan?token=<qr_token>` atau panggil POST `/api/scan` body `{ token }`.
+# Sistempresnsi_SLA-Doyo-baru
